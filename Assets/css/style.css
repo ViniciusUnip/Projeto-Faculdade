@@ -1,0 +1,19 @@
+.backgroundColorNav {
+    background-color: #D031CA;
+    color: white;
+
+}
+
+ .textNave {
+    color: white !important;
+    font-size: 25px;
+
+}
+
+.nav-item{
+    padding: 0px 10px;
+}
+
+.navbar{
+    padding: 20px 100px;
+}
